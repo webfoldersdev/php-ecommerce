@@ -22,9 +22,8 @@
                 echo $inserProduct;
             }
             ?>
-         <form action="" method="post" enctype="multipart/form-data">
+        <form action="" method="post" enctype="multipart/form-data">
             <table class="form">
-               
                 <tr>
                     <td>
                         <label>Name</label>
